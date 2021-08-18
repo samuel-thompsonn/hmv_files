@@ -1,0 +1,89 @@
+{
+	"name": "Opportunity dataset",
+	"displayName": "Subject 1, Surface 5: Flat even surface",
+	"globalTransformQuaternion": {
+		"w": 1,
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"targets": [
+		{
+			"bone": "HIPS",
+			"type": "Quaternion",
+			"column": 20,
+			"localTransformQuaternion": {
+				"w": 0.7625303479386958,
+				"x": -0.0766619544819584,
+				"y": 0.09194540395795396,
+				"z": 0.6357801946415965
+			}
+		},
+		{
+			"bone": "BACK",
+			"type": "Quaternion",
+			"column": 20,
+			"localTransformQuaternion": {
+				"w": 0.5333125514054864,
+				"x": 0.4312692612003507,
+				"y": 0.5658595722076989,
+				"z": 0.45758877979906154
+			}
+		},
+		{
+			"bone": "RUA",
+			"type": "Quaternion",
+			"column": 8,
+			"localTransformQuaternion": {
+				"w": -0.20791634490421076,
+				"x": -0.09160559674277434,
+				"y": 0.8911838606916683,
+				"z": 0.3926455584999869
+			}
+		},
+		{
+			"bone": "RUL",
+			"type": "Quaternion",
+			"column": 4,
+			"localTransformQuaternion": {
+				"w": 0.5100405806510897,
+				"x": 0.32691997229384595,
+				"y": 0.6698177797492975,
+				"z": 0.42933213219628913
+			}
+		},
+		{
+			"bone": "RLL",
+			"type": "Quaternion",
+			"column": 12,
+			"localTransformQuaternion": {
+				"w": 0.40796115380872106,
+				"x": 0.6871158086606187,
+				"y": 0.30692739353745735,
+				"z": 0.5169479060485922
+			}
+		},
+		{
+			"bone": "LUL",
+			"type": "Quaternion",
+			"column": 0,
+			"localTransformQuaternion": {
+				"w": 0.3207351748914967,
+				"x": -0.4933021850061864,
+				"y": 0.19751461411612042,
+				"z": -0.7840726235917201
+			}
+		},
+		{
+			"bone": "LLL",
+			"type": "Quaternion",
+			"column": 16,
+			"localTransformQuaternion": {
+				"w": 0.4958827726565621,
+				"x": 0.40354636767282853,
+				"y": 0.5142578958289297,
+				"z": 0.5716549846700444
+			}
+		}
+	]
+}

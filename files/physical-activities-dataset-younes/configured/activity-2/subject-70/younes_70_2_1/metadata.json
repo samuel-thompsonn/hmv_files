@@ -1,0 +1,111 @@
+{
+	"name": "Opportunity dataset",
+	"displayName": "Physical Activities: Subject 1, Activity 2, Trial 1",
+	"globalTransformQuaternion": {
+		"w": 1,
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"targets": [
+		{
+			"bone": "HIPS",
+			"type": "Quaternion",
+			"column": 0,
+			"localTransformQuaternion": {
+				"w": 0.7336416845772257,
+				"x": -0.6789841914441958,
+				"y": -0.023156709758434785,
+				"z": 0.014632607857988093
+			}
+		},
+		{
+			"bone": "BACK",
+			"type": "Quaternion",
+			"column": 0,
+			"localTransformQuaternion": {
+				"w": 1,
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"bone": "RUA",
+			"type": "Quaternion",
+			"column": 12,
+			"localTransformQuaternion": {
+				"w": 0.4863094528009801,
+				"x": 0.7096233019219975,
+				"y": -0.4205605894983566,
+				"z": 0.2882129005553495
+			}
+		},
+		{
+			"bone": "RLA",
+			"type": "Quaternion",
+			"column": 0,
+			"localTransformQuaternion": {
+				"w": -0.6618855681621397,
+				"x": -0.7310336376158044,
+				"y": -0.12292411876262815,
+				"z": 0.11129679402084122
+			}
+		},
+		{
+			"bone": "LUA",
+			"type": "Quaternion",
+			"column": 4,
+			"localTransformQuaternion": {
+				"w": -0.5241138518812484,
+				"x": -0.7566463902588242,
+				"y": -0.32132640893454584,
+				"z": 0.22257638979847094
+			}
+		},
+		{
+			"bone": "LLA",
+			"type": "Quaternion",
+			"column": 8,
+			"localTransformQuaternion": {
+				"w": -0.6741583922914244,
+				"x": -0.7066147543105511,
+				"y": -0.15901657260305757,
+				"z": 0.1446367198579177
+			}
+		},
+		{
+			"bone": "RUL",
+			"type": "Quaternion",
+			"column": 28,
+			"localTransformQuaternion": {
+				"w": -0.11601774285279126,
+				"x": -0.7572249752370981,
+				"y": -0.018649671281349117,
+				"z": -0.6424970116518969
+			}
+		},
+		{
+			"bone": "RLL",
+			"type": "Quaternion",
+			"column": 32,
+			"localTransformQuaternion": {
+				"w": 0.13537934953078465,
+				"x": 0,
+				"y": 0,
+				"z": 0.9907938391616198
+			}
+		},
+		{
+			"bone": "LUL",
+			"type": "Quaternion",
+			"column": 20,
+			"localTransformQuaternion": {
+				"w": 0.16814961471759535,
+				"x": 0.7755018357327031,
+				"y": -0.007306987165322312,
+				"z": -0.6084975084452667
+			}
+		}
+	]
+}

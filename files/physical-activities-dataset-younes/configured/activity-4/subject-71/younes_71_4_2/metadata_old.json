@@ -1,0 +1,122 @@
+{
+	"name": "Younes Dataset",
+	"displayName": "Physical Activities: Subject 71, Activity 4, Trial 2",
+	"globalTransformQuaternion": {
+		"w": 1,
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"targets": [
+		{
+			"bone": "HIPS",
+			"type": "Quaternion",
+			"column": 0,
+			"localTransformQuaternion": {
+				"w": 0.39515433595441546,
+				"x": -0.34709778634541566,
+				"y": -0.5724171484997305,
+				"z": -0.6290586503609775
+			}
+		},
+		{
+			"bone": "BACK",
+			"type": "Quaternion",
+			"column": 0,
+			"localTransformQuaternion": {
+				"w": 0.555218549995839,
+				"x": 0.03456947503525923,
+				"y": -0.8306644390198287,
+				"z": -0.02310633861471445
+			}
+		},
+		{
+			"bone": "RUA",
+			"type": "Quaternion",
+			"column": 12,
+			"localTransformQuaternion": {
+				"w": -0.08138322125968822,
+				"x": -0.4390762702614877,
+				"y": 0.03997642780931574,
+				"z": -0.8938627889168809
+			}
+		},
+		{
+			"bone": "RLA",
+			"type": "Quaternion",
+			"column": 16,
+			"localTransformQuaternion": {
+				"w": -0.11395558521008932,
+				"x": 0,
+				"y": 0,
+				"z": 0.9934858451932902
+			}
+		},
+		{
+			"bone": "LUA",
+			"type": "Quaternion",
+			"column": 4,
+			"localTransformQuaternion": {
+				"w": -0.06218381801000627,
+				"x": -0.7972717203913475,
+				"y": -0.08338065415149597,
+				"z": 0.5945911563042189
+			}
+		},
+		{
+			"bone": "LLA",
+			"type": "Quaternion",
+			"column": 8,
+			"localTransformQuaternion": {
+				"w": -0.01920249290169265,
+				"x": 0.9998156151342908,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"bone": "RUL",
+			"type": "Quaternion",
+			"column": 28,
+			"localTransformQuaternion": {
+				"w": 0.07073631745452418,
+				"x": -0.004987454151900694,
+				"y": 0.0003536845346486552,
+				"z": 0.9974825179426983
+			}
+		},
+		{
+			"bone": "RLL",
+			"type": "Quaternion",
+			"column": 32,
+			"localTransformQuaternion": {
+				"w": 0.07816293026300207,
+				"x": -0.7555491556240356,
+				"y": 0.09171408701996563,
+				"z": 0.6439134693501932
+			}
+		},
+		{
+			"bone": "LUL",
+			"type": "Quaternion",
+			"column": 20,
+			"localTransformQuaternion": {
+				"w": -0.03570691663032968,
+				"x": -0.41200396864738775,
+				"y": -0.016160348892002224,
+				"z": 0.9103387221508519
+			}
+		},
+		{
+			"bone": "LLL",
+			"type": "Quaternion",
+			"column": 24,
+			"localTransformQuaternion": {
+				"w": 0.06794715631389094,
+				"x": -0.856961903543422,
+				"y": 0.11709292134127508,
+				"z": 0.4972813364644367
+			}
+		}
+	]
+}
